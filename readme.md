@@ -10,3 +10,6 @@ As linguagens utilizadas foram Java para o Backend e TypeScript para o Frontend,
 
 
 ###### Obs: A página do dashboard está temporáriamente indisponível, por causa da mudança da plataforma Heroku não permitir mais o deploy gratuito, estou migrando para outra.
+
+
+Link da página: https://dsvendas-kennedy.netlify.app/
